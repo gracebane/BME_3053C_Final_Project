@@ -1,6 +1,9 @@
 # BME_3053C_Final_Project
 Bane, Denning, Filippone, Lafayette, Ramanand, Wagner
 
+## YouTube Link
+https://youtu.be/TVfSD5YzXjk
+
 ## Dataset
 
 We started with the Figshare dataset “Brain Tumor Dataset” found at:
